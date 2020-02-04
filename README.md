@@ -1,2 +1,3 @@
 # LearningJavascript
-Learning to love
+Learning to love JS
+
